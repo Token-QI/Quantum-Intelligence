@@ -1,4 +1,11 @@
 # Quantum-Intelligence
+
+<img src="https://cdn-images-1.medium.com/max/800/1*y8PDj5quQ-1_3f_8-t0_eQ.jpeg" alt="Quantum-Intelligence">
+
+
+
+# Quantum-Intelligence
+
 [![Chat on Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discordapp.com/invite/ymbEBWK)
 [![Join us on Reddit](https://img.shields.io/badge/reddit-QuantumIntelligence-red.svg)](https://www.reddit.com/user/Quantum-intelligence/comments/b096oy/token_quanto_intelligence/)
 
@@ -16,3 +23,5 @@ integrating enthusiasts of physical and scientific projects, seek investors to a
 To fulfill our goals, Main goals This platform will support research in areas such as: A- CryptoCurrency — Development of a new blockchain based on quantum Computing. B- Security — Encryption, cloud storage and communication C- Health — in addition to allowing the drug discovery process to be speeded up, further reduced significantly the time of use of new medicines.
 
 
+
+<img src="https://cdn-images-1.medium.com/max/800/1*bnj-mdirk8g-awQsxxw7nQ.png" alt="Quantum-Intelligence">
